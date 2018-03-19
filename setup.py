@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name='Algorithm-DS',
+    name='algorithm_ds',
     version='1.0.0',
     packages=[''],
     url='https://github.com/SSK0001/Algorithms-DS',
