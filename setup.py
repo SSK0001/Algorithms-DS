@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='algorithm_ds',
-    version='1.0.1',
+    version='1.0.2',
     packages=[''],
     url='https://github.com/SSK0001/Algorithms-DS',
     license='MIT License',
